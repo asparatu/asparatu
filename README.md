@@ -1,3 +1,8 @@
+# Shane
+[![Linkedin: asparatu](https://img.shields.io/badge/-asparatu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asparatu/)](https://www.linkedin.com/in/asparatu/)
+
+I have been in the IT industry for about 25+ years. I have done a variety of jobs, range from computer support to Chief Information Officer.
+
 [![asparatu's GitHub stats](https://github-readme-stats.vercel.app/api?username=asparatu)](https://github.com/asparatu/github-readme-stats)
 <!--
 **asparatu/asparatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
