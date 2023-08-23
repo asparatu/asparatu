@@ -1,7 +1,12 @@
-[![Linkedin: asparatu](https://img.shields.io/badge/-asparatu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asparatu/)](https://www.linkedin.com/in/asparatu/)
-
-
 I have been in the IT industry for about 25+ years. I have done a variety of jobs, ranging from computer support to Chief Information Officer.
+<p align='center'>
+  <a href="https://www.linkedin.com/in/asparatu/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/asparatu">
+    <img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" />       
+  </a>&nbsp;&nbsp;
+</p>
 
 ## 📟 Github Stats
 [![asparatu's GitHub stats](https://github-readme-stats.vercel.app/api?username=asparatu&hide_title=true&show_icons=true&theme=transparent)](https://github.com/asparatu/)
