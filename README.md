@@ -20,9 +20,9 @@ I have been in the IT industry for about 25+ years. I have done a variety of job
 ## 💻 Workspace
 
 <p align='center'>
-  <img alt="Static Badge" src="https://img.shields.io/badge/lenovo-thinkpad-E2231A.svg?style=for-the-badge&logo=lenovo&logoColor=white">
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core_i5_6th-0071C5.svg?style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/lenovo%20thinkpad-E2231A?style=for-the-badge&logo=lenovo&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Radeon-R7_M370-76B900.svg?style=for-the-badge&logo=amd&logoColor=white">
 </p>
