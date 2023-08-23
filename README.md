@@ -1,3 +1,4 @@
+## 👨‍💻 About Me
 I have been in the IT industry for about 25+ years. I have done a variety of jobs, ranging from computer support to Chief Information Officer.
 <p align='center'>
   <a href="https://www.linkedin.com/in/asparatu/">
@@ -13,6 +14,16 @@ I have been in the IT industry for about 25+ years. I have done a variety of job
 
 ## 📊 Most Used Language
 [![asparatu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=asparatu&langs_count=10&hide=html&hide_title=true&layout=compact&theme=transparent)](https://github.com/asparatu/)
+
+## 💻 Workspace
+
+<p align='center'>
+  <img alt="Static Badge" src="https://img.shields.io/badge/lenovo-thinkpad-E2231A.svg?style=for-the-badge&logo=lenovo&logoColor=white">
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core_i5_6th-0071C5.svg?style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Radeon-R7_M370-76B900.svg?style=for-the-badge&logo=amd&logoColor=white">
+</p>
 
 ##  📫 How to reach me
 - Twitter: [@asparatu](https://twitter.com/asparatu)
