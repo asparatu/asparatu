@@ -1,4 +1,6 @@
-## 👨‍💻 About Me
+<h1 align='center'>
+Hi there 👋 I'm Shane 👨‍💻
+</h1>
 I have been in the IT industry for about 25+ years. I have done a variety of jobs, ranging from computer support to Chief Information Officer.
 <p align='center'>
   <a href="https://www.linkedin.com/in/asparatu/">
