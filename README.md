@@ -2,6 +2,8 @@
 Hi there 👋 I'm Shane 👨‍💻
 </h1>
 I have been in the IT industry for about 25+ years. I have done a variety of jobs, ranging from computer support to Chief Information Officer.
+<br />
+<br />
 <p align='center'>
   <a href="https://www.linkedin.com/in/asparatu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,11 +13,8 @@ I have been in the IT industry for about 25+ years. I have done a variety of job
   </a>&nbsp;&nbsp;
 </p>
 
-## 📟 Github Stats
-[![asparatu's GitHub stats](https://github-readme-stats.vercel.app/api?username=asparatu&hide_title=true&show_icons=true&theme=transparent)](https://github.com/asparatu/)
-
-## 📊 Most Used Language
-[![asparatu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=asparatu&langs_count=10&hide=html&hide_title=true&layout=compact&theme=transparent)](https://github.com/asparatu/)
+## 📟 Github Stats &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;📊 Most Used Language
+[![asparatu's GitHub stats](https://github-readme-stats.vercel.app/api?username=asparatu&hide_title=true&show_icons=true&theme=transparent)](https://github.com/asparatu/) &nbsp;&nbsp;&nbsp;&nbsp; [![asparatu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=asparatu&langs_count=10&hide=html&hide_title=true&layout=compact&theme=transparent)](https://github.com/asparatu/)
 
 ## 💻 Workspace
 
