@@ -6,7 +6,7 @@ I have been in the IT industry for about 25+ years. I have done a variety of job
 </p>
 
 ## 📟 Github Stats &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 📊 Most Used Language
-[![asparatu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=asparatu&hide_title=true&show_icons=true&theme=transparent)](https://github.com/asparatu/) &nbsp;&nbsp;&nbsp;&nbsp; [![asparatu's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=asparatu&langs_count=10&hide=html&hide_title=true&layout=compact&theme=transparent)](https://github.com/asparatu/)
+[![asparatu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=asparatu&hide_title=true&show_icons=true&theme=github_dark)](https://github.com/asparatu/) &nbsp;&nbsp;&nbsp;&nbsp; [![asparatu's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=asparatu&langs_count=10&hide=html&hide_title=true&layout=compact&theme=github_dark)](https://github.com/asparatu/)
 
 ## 💻 Workspace
 
