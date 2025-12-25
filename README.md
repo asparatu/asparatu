@@ -5,7 +5,7 @@ Hi there 👋 I'm Shane 👨‍💻
 I have been in the IT industry for about 25+ years. I have done a variety of jobs, ranging from computer support to Chief Information Officer.
 </p>
 
-## 📟 Github Stats &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 📊 Most Used Language
+## 📟 Github Stats &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; 📊 Most Used Language
 [![asparatu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=asparatu&hide_title=true&show_icons=true&theme=github_dark)](https://github.com/asparatu/) &nbsp;&nbsp;&nbsp;&nbsp; [![asparatu's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=asparatu&langs_count=10&hide=html&hide_title=true&layout=compact&theme=github_dark)](https://github.com/asparatu/)
 
 ## 💻 Workspace
